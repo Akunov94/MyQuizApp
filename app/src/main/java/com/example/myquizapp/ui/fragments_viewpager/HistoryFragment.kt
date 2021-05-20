@@ -1,4 +1,4 @@
-package com.example.myquizapp.ui.home_fragment
+package com.example.myquizapp.ui.fragments_viewpager
 
 import android.os.Bundle
 import android.view.LayoutInflater
@@ -7,7 +7,7 @@ import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.example.myquizapp.R
 
-class HomeFragment : Fragment() {
+class HistoryFragment : Fragment() {
 
     override fun onCreateView(
             inflater: LayoutInflater,

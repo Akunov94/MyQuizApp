@@ -1,4 +1,4 @@
-package com.example.myquizapp.ui.dashboard_fragment
+package com.example.myquizapp.ui.fragments_viewpager
 
 import android.content.Intent
 import android.os.Bundle

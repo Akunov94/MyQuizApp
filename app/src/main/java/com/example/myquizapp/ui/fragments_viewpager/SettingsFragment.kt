@@ -1,4 +1,4 @@
-package com.example.myquizapp.ui.settings_fragment
+package com.example.myquizapp.ui.fragments_viewpager
 
 import android.os.Bundle
 import android.view.LayoutInflater

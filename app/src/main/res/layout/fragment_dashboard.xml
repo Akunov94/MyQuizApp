@@ -6,7 +6,7 @@
     android:background="@color/viewpager_white"
     android:layout_margin="10sp"
     xmlns:app="http://schemas.android.com/apk/res-auto"
-    tools:context=".ui.dashboard_fragment.DashboardFragment">
+    tools:context=".ui.fragments_viewpager.DashboardFragment">
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
